@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d62a5f702e8482299b9df44cf786354b",
+    "revision": "f2f35027ff2a380b5b14c24a2f170bed",
     "url": "https://jobet1995.github.io/csb-ou294i/index.html"
   },
   {
-    "revision": "645d1e497e055b517c41",
-    "url": "https://jobet1995.github.io/csb-ou294i/static/js/2.a4616265.chunk.js"
+    "revision": "ac45daba89bf40a32819",
+    "url": "https://jobet1995.github.io/csb-ou294i/static/js/2.cf2acb50.chunk.js"
   },
   {
     "revision": "fb6fca4f0fa26a7e27d26480a74532c9",
-    "url": "https://jobet1995.github.io/csb-ou294i/static/js/2.a4616265.chunk.js.LICENSE.txt"
+    "url": "https://jobet1995.github.io/csb-ou294i/static/js/2.cf2acb50.chunk.js.LICENSE.txt"
   },
   {
     "revision": "81a67406803b757c087d",
